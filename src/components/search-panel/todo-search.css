@@ -1,0 +1,10 @@
+.todo-search {
+    width: 200px;
+    border-radius: 5px;
+    border: 2px solid grey;
+}
+
+.todo-search:focus {
+    box-shadow: 3px 3px 3px rgba(163, 162, 162, .8);
+    border: 2px solid grey;
+}

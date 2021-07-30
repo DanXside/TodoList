@@ -1,0 +1,15 @@
+.todo-header {
+    color:darkslategrey;
+}
+
+.header-wrapper {
+    width: 576px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo-subtitle {
+    font-size: 24px;
+    color: dimgrey;
+    margin-top: 15px;
+}
